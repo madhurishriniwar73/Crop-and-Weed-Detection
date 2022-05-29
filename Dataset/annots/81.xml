@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weed</folder>
+	<filename>81.jpeg</filename>
+	<path>D:\crop_May_29\weed\81.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>121</ymin>
+			<xmax>472</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>
